@@ -6,12 +6,13 @@
 py-tes
 ======
 
-.. image:: https://travis-ci.org/ohsu-comp-bio/py-tes.svg?branch=master
-    :target: https://travis-ci.org/ohsu-comp-bio/py-tes
+.. image:: https://img.shields.io/github/actions/workflow/status/ohsu-comp-bio/py-tes/tests.yml?logo=github
+   :alt: GitHub Actions Workflow Status
+   :target: https://github.com/ohsu-comp-bio/py-tes/actions
 .. image:: https://coveralls.io/repos/github/ohsu-comp-bio/py-tes/badge.svg?branch=master
-    :target: https://coveralls.io/github/ohsu-comp-bio/py-tes?branch=master
+   :target: https://coveralls.io/github/ohsu-comp-bio/py-tes?branch=master
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
-    :target: https://opensource.org/licenses/MIT
+   :target: https://opensource.org/licenses/MIT
 
 *py-tes* is a library for interacting with servers implementing the
 `GA4GH Task Execution
@@ -70,8 +71,8 @@ Resources
 
 .. toctree::
    :caption: API
-   :name: api_docs
+   :name: api
    :hidden:
    :maxdepth: 1
 
-   api_docs/tes
+   api/tes
