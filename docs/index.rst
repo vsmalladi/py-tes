@@ -7,7 +7,7 @@ py-tes
 ======
 
 .. image:: https://img.shields.io/github/actions/workflow/status/ohsu-comp-bio/py-tes/tests.yml?logo=github
-   :alt: GitHub Actions Workflow Status
+   :alt: GitHub Actions Test Status
    :target: https://github.com/ohsu-comp-bio/py-tes/actions
 .. image:: https://coveralls.io/repos/github/ohsu-comp-bio/py-tes/badge.svg?branch=master
    :target: https://coveralls.io/github/ohsu-comp-bio/py-tes?branch=master
