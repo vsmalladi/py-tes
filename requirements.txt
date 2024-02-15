@@ -3,3 +3,16 @@ future>=0.16.0
 python-dateutil>=2.6.1
 requests>=2.18.2
 sphinx_rtd_theme
+
+sphinx >=3
+sphinxcontrib-napoleon
+sphinx-argparse
+docutils
+myst-parser
+configargparse
+appdirs
+immutables
+sphinxawesome-theme
+snakemake-interface-common
+snakemake-interface-executor-plugins
+snakemake-interface-storage-plugins
