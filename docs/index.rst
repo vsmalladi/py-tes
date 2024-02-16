@@ -173,9 +173,8 @@ Output:
 
 .. _main-support:
 
--------
 Support
--------
+~~~~~~~
 
 * For releases, see :ref:`Changelog <changelog>`.
 * Check :ref:`frequently asked questions (FAQ) <project_info-faq>`.
@@ -184,9 +183,8 @@ Support
 
 .. _main-resources:
 
----------
 Resources
----------
+~~~~~~~~~
 
 `Snakemake <https://snakemake.github.io/>`_
     The Snakemape workflow management system is a tool to create reproducible and scalable data analyses
