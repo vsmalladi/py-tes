@@ -128,7 +128,7 @@ html_theme_options = {
     "logo_dark": "logo-ga4gh-dark.png",
     "main_nav_links": {
         "About": "index",
-        "Docs": "api/tes",
+        "API": "api/tes",
         "GitHub": "https://github.com/ohsu-comp-bio/py-tes",
     },
     "awesome_external_links": True,

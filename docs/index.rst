@@ -66,8 +66,20 @@ Support
 Resources
 ---------
 
-`Snakemake Wrappers Repository <https://snakemake-wrappers.readthedocs.org>`_
-    The Snakemake Wrapper Repository is a collection of reusable wrappers that allow to quickly use popular tools from Snakemake rules and workflows.
+`Snakemake <https://snakemake.github.io/>`_
+    The Snakemape workflow management system is a tool to create reproducible and scalable data analyses
+
+`Nextflow <https://www.nextflow.io/>`_
+    Nextflow enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages. 
+
+`Funnel <https://ohsu-comp-bio.github.io/funnel/>`_
+    Funnel is a toolkit for distributed task execution with a simple API.
+
+`cwl-tes <https://github.com/ohsu-comp-bio/cwl-tes>`_
+    cwl-tes submits your tasks to a TES server. Task submission is parallelized when possible. 
+
+`ga4gh-tes <https://github.com/microsoft/ga4gh-tes>`_
+    C# implementation of the GA4GH TES API; provides distributed batch task execution on Microsoft Azure 
 
 .. toctree::
    :caption: API
